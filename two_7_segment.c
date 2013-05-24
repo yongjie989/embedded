@@ -20,7 +20,6 @@ int main(void){
 		delay_ms(50);
 		P2 = dis_7[i];
 		delay_ms(100);
-
 	}
 	}
 	return 0;
